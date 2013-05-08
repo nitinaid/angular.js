@@ -1,5 +1,7 @@
 #!/usr/bin/env node
 
+
+
 /**
  * Git COMMIT-MSG hook for validating commit message
  * See https://docs.google.com/document/d/1rk04jEuGfk9kYzfqCuOlPTSJw3hEDZJTBN5E5f1SALo/edit
